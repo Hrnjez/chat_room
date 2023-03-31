@@ -1,0 +1,39 @@
+.container {
+    max-width: 600px;
+}
+
+.btn {
+    background: #43d9be;
+    color: #fff;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.btn:focus {
+    outline: none !important;
+}
+
+.username {
+    color:#43d9be;
+    background: #eee9;
+    width: fit-content;
+    padding: 0.1rem 0.5rem 0.2rem;
+    border-radius: 0.5rem;
+    text-transform: capitalize;
+}
+
+.time {
+    font-size: 0.75em;
+    color: #999;
+}
+
+.update-mssg {
+    text-align:center;
+    color:#8b8b8b;
+    background: #eee;
+    width: fit-content;
+    padding: 0.25rem 1rem;
+    border-radius: 0.5rem;
+    text-transform: capitalize;
+    margin: 20px auto;
+}
