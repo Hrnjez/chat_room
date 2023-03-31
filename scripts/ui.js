@@ -1,5 +1,5 @@
-//render chat templates to the DOM
-//clear the list of chats(when the room changes)
+// Render chat templates to the DOM
+// Clear the list of chats(when the room changes)
 
 class ChatUI {
     constructor(list){

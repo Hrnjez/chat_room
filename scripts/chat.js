@@ -1,7 +1,7 @@
-// adding new chat docs
-//setting up a real time listener to get new chats
-//updating the username
-//updating the room
+// Adding new chat docs
+// Setting up a real time listener to get new chats
+// Updating the username
+// Updating the room
 
 class Chatroom {
     constructor(room, username){

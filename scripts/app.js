@@ -1,4 +1,4 @@
-// dom queries
+// DOM queries
 const chatlist = document.querySelector('.chat-list');
 const newChatForm = document.querySelector('.new-chat');
 const newNameForm = document.querySelector('.new-name');
